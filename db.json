@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "nombre": "Nicolas",
+      "apellido": "De la cruz",
+      "email": "nico@river.com",
+      "password": "091218",
+      "id": 1
+    },
+    {
+      "nombre": "Ariel",
+      "apellido": "Ortega",
+      "email": "burrito@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "nombre": "Lucas",
+      "apellido": "Beltran ",
+      "email": "lucas@river.com",
+      "password": "200",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Fernet",
+      "description": "1 litro",
+      "price": "17",
+      "stock": "65",
+      "img": "https://picsum.photos/200/300/?blur",
+      "id": 1
+    },
+    {
+      "name": "Coca",
+      "description": "Coca 3 litros",
+      "price": "36",
+      "stock": "33",
+      "img": "https://picsum.photos/200/300/?blur",
+      "id": 2
+    }
+  ]
+}
