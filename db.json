@@ -24,20 +24,12 @@
   ],
   "products": [
     {
-      "name": "Fernet",
-      "description": "1 litro",
-      "price": "17",
-      "stock": "65",
+      "name": "Jugo Verao",
+      "description": "Naranja",
+      "price": "28",
+      "stock": "59",
       "img": "https://picsum.photos/200/300/?blur",
       "id": 1
-    },
-    {
-      "name": "Coca",
-      "description": "Coca 3 litros",
-      "price": "36",
-      "stock": "33",
-      "img": "https://picsum.photos/200/300/?blur",
-      "id": 2
     }
   ]
 }

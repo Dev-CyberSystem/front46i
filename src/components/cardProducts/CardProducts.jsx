@@ -7,7 +7,7 @@ const CardProducts = () => {
 
   return (
     <>
-      <div className="m-1 d-flex flex-row">
+      <div className="mx-2 d-flex flex-row">
         {productos === undefined
           ? "No hay productos en la tienda"
           : productos.map((producto) => (

@@ -5,6 +5,7 @@ import Login from "../components/login/Login";
 import Register from "../components/register/Register";
 import FormAddProducts from "../components/products/FormAddProducts";
 import Tienda from "../pages/tienda/Tienda";
+import Administracion from "../pages/administracion/Administracion";
 
 const Routes = () => {
   return (
@@ -16,6 +17,7 @@ const Routes = () => {
         <Route path="/registro" element={<Register />} />
         <Route path="/addProductos" element={<FormAddProducts />} />
         <Route path="/tienda" element={<Tienda /> } />
+        <Route path="/admin" element={<Administracion /> } />
       </Ruta>
     </>
   );
